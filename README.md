@@ -1,49 +1,43 @@
-<h1 align="center">👋 Hi there! I'm Nicolás Esteban Sosa</h1>
+# 👋 Hi there! I'm Nicolás Esteban Sosa  
 
-<p align="center">
-  🎓 Software Development Student (Technicature in Programming) <br>
-  💡 Passionate about <strong>C#</strong> & <strong>ASP.NET</strong> <br>
-  🗄️ Focused on <strong>relational databases</strong> <br>
-  🌍 Currently improving my <strong>English</strong>
-</p>
+### 💻 About me
+- 🎓 I'm currently studying **Software Development (Technicature in Programming)**.  
+- 💡 I'm very interested in **C#** and **ASP.NET**.  
+- 🗄️ I enjoy working with **relational databases**.  
+- 🌍 I'm also studying **English** to expand my professional skills.  
 
 ---
 
-## 🗄️ Databases
-<p align="center">
+### 🗄️ Databases
+<p align="left">
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
-## 🎨 Frontend
-<p align="center">
+### 🎨 Frontend
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-## ⚙️ Technologies & Tools
-<p align="center">
+### ⚙️ Technologies & Tools
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
-## 👨‍💻 Programming Languages
-<p align="center">
+### 👨‍💻 Programming Languages
+<p align="left">
   <img src="https://skillicons.dev/icons?i=java,cs,cpp" />
 </p>
 
-## 🚀 Frameworks
-<p align="center">
+### 🚀 Frameworks
+<p align="left">
   <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white"/>
 </p>
 
 ---
 
-## 📈 GitHub Stats
+### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nicolas-Sosa1&show_icons=true&theme=radical&hide_border=true" alt="stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Sosa1&layout=compact&theme=radical&hide_border=true" alt="langs" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nicolas-Sosa1&show_icons=true&theme=radical" alt="stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Sosa1&layout=compact&theme=radical" alt="langs" height="180"/>
 </p>
-
----
-
-<p align="center">✨ Always learning, always coding. ✨</p>
-
 
