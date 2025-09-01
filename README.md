@@ -28,6 +28,11 @@
   <img src="https://skillicons.dev/icons?i=java,cs,cpp" />
 </p>
 
+### 🚀 Frameworks
+<p align="left">
+  <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white"/>
+</p>
+
 ---
 
 ### 📈 GitHub Stats
@@ -35,3 +40,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Nicolas-Sosa1&show_icons=true&theme=radical" alt="stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Sosa1&layout=compact&theme=radical" alt="langs" height="180"/>
 </p>
+
